@@ -1,0 +1,40 @@
+body{
+    background-color:    #e0ebeb;
+    text-align: center;
+}
+
+#g{
+
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 15px;
+}
+#g:hover{
+    background-color:lightgray;
+}
+
+#research{
+
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 15px;
+}
+#research:hover{
+    background-color:lightgray;
+}
+
+#abc{
+
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 15px;
+}
+#abc:hover{
+    background-color:lightgray;
+}

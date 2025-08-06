@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: flask-app
+    env: python
+    buildCommand: pip install --no-build-isolation -r requirements.txt
+    startCommand: gunicorn app:app
